@@ -19,11 +19,12 @@ Write it in first (I) or third (Your Name Here) person.
 
 ## Current Role
 
+2nd year ECE student
 Grace Hopper Celebration Attendee
 
 ## Recognition
 
-- 2020 Awesome Woman in Technology Award
+
 
 ## Social Media
 
